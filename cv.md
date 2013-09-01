@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /cv/index.html
-title: Curriculum Vitae
+title: Robison Jacka
 tagline:
-tags: [about, robison, jacka, resume]
+tags: [about, robison, jacka, resume, cv]
 image:
     feature: rj/record-player.jpg
 ---
 
-## Robison Jacka
+
 #### robison@packetized.io / +1.205.202.9464 / [http://packetized.io](http://packetized.io)
 
 #### Technical Proficiencies
@@ -18,6 +18,7 @@ image:
   * Information Security – understanding precepts of information security from a technological perspective as well as a business-driven view
 
 #### Employment Experience
+
 ##### Network Engineer / Infrastructure Engineering/Technical Operations, Salesforce.com (2012 - present)
   * Practice DevOps methodology as a network engineering resource attached to the Monitoring & Management – Infrastructure Adaptive Delivery team
   * Work with development engineers to design, build, and validate tools to be used by Operations Engineering and Site Reliability to ensure 24x7 reliability of the Salesforce.com customer-facing network
