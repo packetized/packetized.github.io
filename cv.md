@@ -9,17 +9,17 @@ image:
 ---
 
 
-##### _robison@packetized.io_ / _+1.205.202.9464_ / _[http://packetized.io](http://packetized.io)_
+#### _robison@packetized.io_ / _+1.205.202.9464_ / _[http://packetized.io](http://packetized.io)_
 
-#### Technical Proficiencies
+## Technical Proficiencies
   * Enterprise WAN Routing/Switching & Data Center Services Delivery – including application optimization, acceleration, and availability for large, distributed environments (BGP, OSPF, multicast, load-balancing)
   * Complex Fault Analysis & Support – advanced experience with intelligent network analysis & service monitoring platforms from Fluke Networks, Visual Network Systems, ExtraHop, Compuware, as well as a wide range of community-supported open source tools
   * Monitoring & Management Systems at Scale – planning, development, and implementation of automation-driven M&M tools to support extremely scalable applications and internet-connected networks
   * Information Security – understanding precepts of information security from a technological perspective as well as a business-driven view
 
-#### Employment Experience
+## Employment Experience
 
-##### Network Engineer / Infrastructure Engineering/TechOps
+#### Network Engineer / Infrastructure Engineering/TechOps
 
 ##### [Salesforce.com](http://www.salesforce.com) (2012 - present)
   * Practice DevOps methodology as a network engineering resource attached to the Monitoring & Management – Infrastructure Adaptive Delivery team
@@ -29,7 +29,7 @@ image:
   * Perform proof-of-concept evaluations and deliver implementation plans for monitoring & management tools, specifically to improve fault awareness, event correlation, and rapid repair on our global transport network
   * Design monitoring systems to cover a wide variety of platforms – Juniper, Cisco, Force10, F5, Palo Alto Networks, Silver Peak Systems
 
-##### IT Officer / Network Operations & Engineering
+#### IT Officer / Network Operations & Engineering
 
 ##### [Regions Financial Corp.](http://www.regions.com) (2007 – 2012)
   * Configured and supported internal load-balancing solutions, including Cisco Application Control Engine Service Module, Global Site Selector, and Content Service Switch product lines
@@ -44,9 +44,9 @@ image:
   * Supported the Technology Project Management group on new application testing and validation, including bank-wide platform software products
   * Analyzed network utilization and protocol issues, troubleshooting issues with most commonly used network client/server applications, such as Citrix Metaframe, Microsoft Terminal Services, CIFS/SMB, and Lotus Notes
 
-##### Information Security Analyst / Information Security Operations
+#### Information Security Analyst / Information Security Operations
 
-##### [AmSouth Bancorporation](http://www.amsouth.com) (2005 – 2007)
+##### [AmSouth Bancorporation](http://www.regions.com/about_regions/amsouth_info.rf) (2005 – 2007)
   * Managed all hardware information security devices, including Cisco PIX firewalls, Cisco VPN 3060 concentrators, and Cisco AS5350 dial concentrators
   * Administrated the company-wide RSA ACE/Server (SecurID) system, with over 16,000 users, in addition to internal RADIUS and TACACS+ servers
   * Developed network documentation and standards for new firewall and security device implementation
@@ -56,7 +56,7 @@ image:
   * Performed internal audits of access levels, for both remote VPN connectivity and thru-firewall access for regulatory compliance
   * Supported more than 350 site-to-site VPNs and 2000+ client VPN users
 
-##### Senior Network Consultant / Professional Services
+#### Senior Network Consultant / Professional Services
 
 ##### [InLine Connections](http://www.inline.com) (2000 – 2005)
   * Designed and implemented new networks from the ground up to support electronic medical records software such as EHS CareRevolution in a variety of healthcare customer offices
@@ -70,7 +70,7 @@ image:
   * Designed, developed, and installed complex WAN and LAN environments with Cisco equipment, including custom Network VPN scenarios with mixed WAN/LAN media as well as large scale ISM wireless networks, plus daily interaction with ILEC/RBOC data services vendors for troubleshooting and support
   * Worked with client/server systems from Microsoft, Sun, SCO, and Red Hat, configuring DHCP/DNS and other network infrastructure-oriented services
 
-##### Network Administrator
+#### Network Administrator
 
 ##### Schuler Industries (1999 – 2000)
   * Planned, managed, and implemented a Windows NT migration from a Novell 3.12 network - migration involved 3 sites, 3 domains, 4 servers, and 60 workstations
@@ -78,7 +78,7 @@ image:
   * Upgraded all Cisco equipment to standard IOS, as well as performing routine troubleshooting on ISDN WAN links
   * Managed Lucent Definity G3 phone system as well as AT&T Audix VMS
 
-##### Field Technician
+#### Field Technician
 
 ##### [Pomeroy Computer Resources](http://www.pomeroy.com) (1998 – 1999)
   * Managed statewide projects for installation and upgrade of legacy PC and network hardware to platform standard for tellers and administrative personnel at major banking customers
