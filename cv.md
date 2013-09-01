@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/index.html
-title: Robison Jacka
+title: Professional Experience
 tagline:
 tags: [about, robison, jacka, resume, cv]
 image:
@@ -9,7 +9,7 @@ image:
 ---
 
 
-#### robison@packetized.io / +1.205.202.9464 / [http://packetized.io](http://packetized.io)
+##### robison@packetized.io / +1.205.202.9464 / _[http://packetized.io](http://packetized.io)_
 
 #### Technical Proficiencies
   * Enterprise WAN Routing/Switching & Data Center Services Delivery – including application optimization, acceleration, and availability for large, distributed environments (BGP, OSPF, multicast, load-balancing)
