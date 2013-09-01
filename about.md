@@ -17,3 +17,4 @@ I'm a fairly whelmed bit plumber, working and doing technically sweet networking
 * Automation-type stuff - nothing is more satisfying than doing something cleverly on a lot of systems at once
 * Fixing things until they're broken
 
+####You can read more about me [here][/cv/index.html].

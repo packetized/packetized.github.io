@@ -1,3 +1,13 @@
+---
+layout: page
+permalink: /cv/index.html
+title: Curriculum Vitae
+tagline:
+tags: [about, robison, jacka, resume]
+image:
+    feature: rj/record-player.jpg
+---
+
 # Robison Jacka
 #### robison@packetized.io / 205.202.9464 / [http://packetized.io][]
 ### Capable network and security professional, familiar with an extraordinarily broad array of computing concepts and technologies, seeking a position where skills are tested and developed daily
