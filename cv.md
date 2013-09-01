@@ -19,7 +19,7 @@ image:
 
 #### Employment Experience
 
-##### Network Engineer / Infrastructure Engineering/Technical Operations, [Salesforce.com](http://www.salesforce.com) (2012 - present)
+##### Network Engineer / Infrastructure Engineering/TechOps, [Salesforce.com](http://www.salesforce.com) (2012 - present)
   * Practice DevOps methodology as a network engineering resource attached to the Monitoring & Management – Infrastructure Adaptive Delivery team
   * Work with development engineers to design, build, and validate tools to be used by Operations Engineering and Site Reliability to ensure 24x7 reliability of the Salesforce.com customer-facing network
   * Integrate existing tools, both closed and open source, to extend visibility into network-related probems, lowering mean time to repair
@@ -27,7 +27,7 @@ image:
   * Perform proof-of-concept evaluations and deliver implementation plans for monitoring & management tools, specifically to improve fault awareness, event correlation, and rapid repair on our global transport network
   * Design monitoring systems to cover a wide variety of platforms – Juniper, Cisco, Force10, F5, Palo Alto Networks, Silver Peak Systems
 
-##### IT Officer / Network Operations & Engineering, [Regions Financial Corporation](http://www.regions.com) (2007 – 2012)
+##### IT Officer / Network Operations & Engineering, [Regions Financial Corp.](http://www.regions.com) (2007 – 2012)
   * Configured and supported internal load-balancing solutions, including Cisco Application Control Engine Service Module, Global Site Selector, and Content Service Switch product lines
   *  Administered internal troubleshooting and monitoring tools from Fluke Networks, including Visual Performance Manager, as well as the full range of Fluke hardware-based network inspection and capture/analysis devices
   * Migrated legacy EIGRP/OSPF/RIP networks to new environment as part of overall merger/upgrade strategy, including conversion to BGP as interior gateway protocol for 2000 WAN sites across two provider networks
