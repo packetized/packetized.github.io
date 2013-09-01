@@ -8,7 +8,7 @@ owner:
   name:           Robison Jacka
   avatar:         rj/bio-photo.jpg
   bio:            "Tall, scruffy, ginger."
-  email:          robison@packetized.io
+#  email:          robison@packetized.io
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: packetized
   github: packetized
