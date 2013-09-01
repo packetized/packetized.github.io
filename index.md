@@ -1,9 +1,7 @@
 ---
-layout: page
-title: Hi.
-tagline: Supporting tagline
+layout: home
+description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+tags: [Jekyll, theme, responsive, blog, template]
+image:
+  feature: texture-feature-01.jpg
 ---
-{% include JB/setup %}
-
-I'm a network engineer located in San Francisco, simultaneously over- and underwhelmed. I'm just fairly whelmed.
-
