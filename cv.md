@@ -13,7 +13,7 @@ image:
 
 ## Technical Proficiencies
   * Enterprise WAN Routing/Switching & Data Center Services Delivery – including application optimization, acceleration, and availability for large, distributed environments (BGP, OSPF, multicast, load-balancing)
-  * Complex Fault Analysis & Support – advanced experience with intelligent network analysis & service monitoring platforms from Fluke Networks, Visual Network Systems, ExtraHop, Compuware, as well as a wide range of community-supported open source tools
+  * Complex Fault Analysis & Support – advanced experience with intelligent network analysis & service monitoring platforms from Fluke Networks, Visual Network Systems, ExtraHop, Compuware, and community-supported open source tools
   * Monitoring & Management Systems at Scale – planning, development, and implementation of automation-driven M&M tools to support extremely scalable applications and internet-connected networks
   * Information Security – understanding precepts of information security from a technological perspective as well as a business-driven view
 
