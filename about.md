@@ -1,21 +1,19 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
+title: About Me
+tagline:
+tags: [about, robison, jacka, network]
 image:
   feature: rj/record-player.jpg
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com) as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+I'm a fairly whelmed bit plumber, working and doing technically sweet networking-type-stuff for Salesforce.com in San Francisco, CA. Started this blog as a way of keeping track of some of the projects and moderately interesting things I'm doing outside of the office.
 
-## Minimal Mistakes is all about:
+## Things I am good at:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments. Content first --- other widget nonsense never.
-* Large feature images for posts and pages.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+* Trivia
+* Computing in general, networking & monitoring in specific
+* Automation-type stuff - nothing is more satisfying than doing something cleverly on a lot of systems at once
+* Fixing things until they're broken
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
