@@ -1,8 +1,7 @@
-title:            Site Title
-tagline:          A short tagline
+title:            packetized.io
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-site.com
+url:              http://packetized.io
 
 # Owner/author information
 owner:
@@ -11,21 +10,16 @@ owner:
   bio:            "Describe your self."
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  linkedin:       
-  instagram:      
-  lastfm:         
-  tumblr:         
+  twitter:packetized
+  github:packetized
+  linkedin:robisonjacka
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+#google_analytics:   
+#google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:        
+#bing_verify:        
 
 # Links to include in top navigation
 # For external links add external: true
@@ -34,14 +28,14 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: Theme Setup
+#    url: /theme-setup
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
