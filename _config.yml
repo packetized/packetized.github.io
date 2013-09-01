@@ -6,9 +6,9 @@ url:              http://packetized.io
 # Owner/author information
 owner:
   name:           Robison Jacka
-  avatar:         bio-photo.jpg
+  avatar:         rj/bio-photo.jpg
   bio:            "Tall, scruffy, ginger."
-  email:          your@email.com
+  email:          robison@packetized.io
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: packetized
   github: packetized
