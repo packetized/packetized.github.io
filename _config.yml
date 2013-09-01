@@ -10,9 +10,9 @@ owner:
   bio:            "Tall, scruffy, ginger."
   email:          your@email.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:packetized
-  github:packetized
-  linkedin:robisonjacka
+  twitter: packetized
+  github: packetized
+  linkedin: robisonjacka
   # For Google Authorship https://plus.google.com/authorship
 
 # Analytics and webmaster tools stuff goes here
