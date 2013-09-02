@@ -1,13 +1,4 @@
----
-layout: page
-permalink: /cv/index.html
-title: Professional Experience
-tagline:
-tags: [about, robison, jacka, resume, cv]
-image:
-    feature: rj/record-player.jpg
----
-
+## Robison Jacka
 
 #### _robison@packetized.io_ / _+1.205.202.9464_ / _[http://packetized.io](http://packetized.io)_
 
@@ -26,6 +17,7 @@ image:
   * Work with development engineers to design, build, and validate tools to be used by Operations Engineering and Site Reliability to ensure 24x7 reliability of the Salesforce.com customer-facing network
   * Integrate existing tools, both closed and open source, to extend visibility into network-related probems, lowering mean time to repair
   * Plan and test hardware & software upgrades intended for production data center network equipment, focusing on continuous uptime
+  * Test and validate internally developed monitoring software using continuous integration methodology and automation best practices
   * Perform proof-of-concept evaluations and deliver implementation plans for monitoring & management tools, specifically to improve fault awareness, event correlation, and rapid repair on our global transport network
   * Design monitoring systems to cover a wide variety of platforms – Juniper, Cisco, Force10, F5, Palo Alto Networks, Silver Peak Systems
 
