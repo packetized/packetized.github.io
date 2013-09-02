@@ -5,3 +5,7 @@ tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: rj/driving-sunflowers.jpg
 ---
+
+{% assign first_post = site.posts.first %}
+{{ first_post.content }}
+
