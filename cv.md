@@ -6,7 +6,7 @@ tagline:
 tags: [about, robison, jacka, resume, cv]
 image:
     feature: rj/record-player.jpg
-----
+---
 
 
 #### _robison@packetized.io_ / _+1.205.202.9464_ / _[http://packetized.io](http://packetized.io)_
